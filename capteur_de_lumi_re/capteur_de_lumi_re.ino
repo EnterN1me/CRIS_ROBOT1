@@ -1,4 +1,4 @@
-;::ù!int CNY = A0;
+int CNY = A0;
 int color;
 int colorTab[10];
 
